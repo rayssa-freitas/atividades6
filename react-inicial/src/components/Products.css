@@ -1,0 +1,16 @@
+.products {
+ text-align: left;
+}
+
+.products img {
+ width: 280px;
+ border-radius: 4px;
+}
+
+.preco {
+ color:darkkhaki;
+}
+
+.modelo {
+ color:darkolivegreen;
+}
